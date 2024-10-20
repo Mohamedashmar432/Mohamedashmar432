@@ -2,7 +2,7 @@
 
 ###
 
-<h5 align="center">Hi, I'm Mohamed Ashmar<br>A passionate web developer and cybersecurity enthusiast, dedicated to building innovative web solutions and safeguarding the digital world.</h5>
+<h4 align="center">Hi, I'm Mohamed Ashmar<br>A passionate web developer and cybersecurity enthusiast, dedicated to building innovative web solutions and safeguarding the digital world.</h4>
 
 ###
 
@@ -78,6 +78,10 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Mohamedashmar432&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mohamedashmar432&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
+
+###
+
+<h2 align="left">Find me around the web 🌎:</h2>
 
 ###
 
