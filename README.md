@@ -21,8 +21,8 @@ From developing backend systems in **Django** to designing threat intelligence a
 - 🤖 Building AI agents for **credential leak watching**, **API key scanning**, **SSL monitors**, and more  
 - 🔍 Skilled in Malware Analysis, VAPT, Threat Intel Automation  
 - 🚀 Contributor to open-source cybersecurity utilities  
-- 🌍 Based in **Singapore**, open to global collaborations  
-- 📧 Reach me at: **ashmar.cybersec@protonmail.com**
+- 🌍 Based in **India**, open to global collaborations  
+- 📧 Reach me at: **mohamedashmar519@gmail.com**
 
 </details>
 
