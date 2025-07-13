@@ -1,92 +1,82 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Code+to+create.+Hack+to+protect.;Learn+to+evolve;"/>
+</p>
 
-###
 
-<h4 align="center">Hi, I'm Mohamed Ashmar<br>A passionate web developer and cybersecurity enthusiast, dedicated to building innovative web solutions and safeguarding the digital world.</h4>
 
-###
+<img width="25%" align="right" src="https://github.com/user-attachments/assets/e78e13fd-8c84-4c21-9471-79d5374d4a15" />
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/Mohamedashmar432/count.svg?"  />
-</div>
+## 👋 Hello! I'm **[`Ashmar`](https://github.com/ashmar00)**
 
-###
+A passionate **Full Stack Developer**, **Cybersecurity Enthusiast**, and **Builder of AI-Powered Security Tools**.  
+From developing backend systems in **Django** to designing threat intelligence automations using **n8n**, I thrive at the intersection of software engineering and security.
 
-<h2 align="left">About me</h2>
+---
 
-###
+<details>
+  <summary>📌 More About Me</summary>
 
-<br clear="both">
+- 🛡️ Cybersecurity SaaS Founder – [**Asmasec**](#)  
+- 👨‍💻 Experienced in Django, PHP, REST APIs, Linux, and Security Testing  
+- 🤖 Building AI agents for **credential leak watching**, **API key scanning**, **SSL monitors**, and more  
+- 🔍 Skilled in Malware Analysis, VAPT, Threat Intel Automation  
+- 🚀 Contributor to open-source cybersecurity utilities  
+- 🌍 Based in **Singapore**, open to global collaborations  
+- 📧 Reach me at: **ashmar.cybersec@protonmail.com**
 
-<p align="left">✨ Creating: Web apps and secure tools<br><br>📚 Currently learning: Full-stack web development & Web3 development<br><br>🎯 Goals: Continue learning and building impactful projects<br><br>🎲 Fun fact: I’m fascinated by how everyday hacks can be used for both fun and security — always looking for the next challenge to solve!</p>
+</details>
 
-###
+---
 
-<h2 align="left">I code with</h2>
+## 🔥 Current Focus
 
-###
+<img align="right" width="25%" src="https://github.com/user-attachments/assets/9c826dd0-fd72-49ba-af60-e79f64344f59" />
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="40" alt="jquery logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="fastapi logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="40" alt="gitlab logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/perl/perl-original.svg" height="40" alt="perl logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-</div>
+- 🧠 Automating Threat Intelligence for SOCs  
+- 🌐 Building cybersecurity bots using **n8n**, **FastAPI**, and **Supabase**  
+- 🧪 Performing real-world **VAPT** & **Malware** reports  
+- 🧰 Building public tools to support **bug bounty** and **security research**  
+- 🌱 Learning: **Web3 Security**, **Agentic AI**, and **Malware Forensics**
 
-###
+---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mohamedashmar432&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mohamedashmar432&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<h2 align="left">Find me around the web 🌎:</h2>
-
-###
+## 🛠️ Skills & Toolset
 
 <div align="left">
-  <a src="https://www.linkedin.com/in/mohamed-ashmar/"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  /></a>
- 
+  
+  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=black" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/n8n-AE7AFF?style=for-the-badge&logo=n8n&logoColor=white" />
+  <img src="https://img.shields.io/badge/Burp_Suite-FC6D26?style=for-the-badge&logo=burpsuite&logoColor=black" />
+  <img src="https://img.shields.io/badge/OWASP-ZAP-FF3366?style=for-the-badge&logo=OWASP&logoColor=white" />
+  <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 
-###
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<img align="right" width="42%" src="https://i.imgur.com/1ToWEWw.png" />
+
+[![Ashmar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mohamedashmar432&theme=radical&hide_border=true&bg_color=00000000)](https://github.com/ashmar00)  
+[![GitHub Streak](https://streak-stats.demolab.com?user=Mohamedashmar432&theme=dark&hide_border=true&background=00000000)](https://git.io/streak-stats)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamedashmar432&layout=compact&theme=vision-friendly-dark&hide_border=true&bg_color=00000000)](https://github.com/ashmar00)
+
+---
+
+
+
+<p align="center">
+  <b><i>"Hack for good, build for better."</i></b>
+</p>
+
